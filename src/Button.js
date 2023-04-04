@@ -2,7 +2,7 @@ import React from 'react'
 import './Styles/buttonStyle.css';
 import PropTypes from 'prop-types';
 
-function Button=({type,className,style,isDisabled,value,onPress}) =>{
+function Button({type,className,style,isDisabled,value,onPress}) {
 	const disableBtn = !isDisabled?"btn-normal":"btn-disable"
 	const className=className;
 	console.log("done")

@@ -1,6 +1,6 @@
 {
   "name": "buttons-component",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "/build/index.js",
   "keyword":"react, reactjs, component, button",
   "scripts": {
